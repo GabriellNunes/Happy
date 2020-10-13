@@ -1,5 +1,5 @@
 #page-landing {
-  background: linear-gradient(329.54deg, #704eeb 0%, #53b1e4, #7cf8d3 100%);
+  background: linear-gradient(329.54deg, #2d1f61 0%, #53b1e4, #7cf8d3 100%);
 
   text-align: center;
   min-height: 100vh;
@@ -36,7 +36,7 @@ h1,
 }
 
 .visit a:hover{
-    background: #f1bc29;
+    background: #eec041;
 }
 
 #logo {
